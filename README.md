@@ -4,13 +4,25 @@
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
 </div>
 
-
 I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
+## Who am I
+
+- 🚀 Passionate about technologies, innovation, and development.
+- 🎓 Graduated in computer science.
+- 🎓 Specialization on game coding in AIV (Accademia Italiana Videogiochi), Italy (RM).
+- 💼 Actually working on Web field in Wakala, Italy (RM).
+- 😁 Always looking for new projects to develop and new coding challenges.
+- 🌐 Feel free to ask for my personal curriculum vitae/portfolio.
 
 
+## Tecnologie e Strumenti
+
+- 🔧 [Elencare le tecnologie chiave che usi, ad esempio: JavaScript, React, Node.js, Python, ecc.]
+- 🛠️ [Altro software o strumenti che utilizzi, come editor di testo, ambienti di sviluppo, ecc.]
 
 
+Keep in touch
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
