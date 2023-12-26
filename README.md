@@ -23,7 +23,7 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 - 🛠️ [Altro software o strumenti che utilizzi, come editor di testo, ambienti di sviluppo, ecc.]
 
 
-Keep in touch
+## Keep in touch!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
@@ -35,4 +35,5 @@ Keep in touch
     <a href="https://globalgamejam.org/users/leviathan-0">
     <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="40"/>
   </a>
+  <a href="mailto:your.email@example.com"/>
 </div>
