@@ -37,6 +37,6 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
     <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="40" heigth="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="acanfora_7200@hotmail.com ">
-    <img src="https://i.gifer.com/QHTn.gif" alt="Global Game Jam" width="40" heigth="50"/>
+  <a href="acanfora_7200@hotmail.com">
+    <img src="https://i.gifer.com/QHTn.gif" alt="Email" width="40" heigth="50"/>
   </a>
