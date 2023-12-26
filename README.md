@@ -23,12 +23,9 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 - 🛠️ [Altro software o strumenti che utilizzi, come editor di testo, ambienti di sviluppo, ecc.]
 
 
-## Keep in touch!
+## Keep in touch! nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 acanfora_7200@hotmail.com
 
 <div width="40" heigth="50">
-  <div align="center">
-📧 acanfora_7200@hotmail.com
-  </div>
 <p>
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50" heigth="50"/>
