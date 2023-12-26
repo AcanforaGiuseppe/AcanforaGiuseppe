@@ -5,6 +5,13 @@
 </div>
 
 
+I'm Acanfora Giuseppe, 23y from Italy ![ItalyFlagGIF](https://github.com/AcanforaGiuseppe/AcanforaGiuseppe/assets/101001028/4543b506-2ed1-4235-b6ce-08d31169718b)
+
+
+
+
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="40"/>
