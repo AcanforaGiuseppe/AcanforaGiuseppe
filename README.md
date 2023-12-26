@@ -25,7 +25,6 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
 ## Keep in touch!
 
-<div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="40" heigth="50"/>
   </a>
@@ -38,8 +37,6 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
     <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="40" heigth="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="acanfora_7200@hotmail.com ">
+  <a href="acanfora_7200@hotmail.com ">
     <img src="https://i.gifer.com/QHTn.gif" alt="Global Game Jam" width="40" heigth="50"/>
   </a>
-📧
-</div>
