@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100"/>
-  Benvenuto nel mio profilo GitHub! 👋
+  Welcome in my GitHub profile! 👋
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
 </div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
