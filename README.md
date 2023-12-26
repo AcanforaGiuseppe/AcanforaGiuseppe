@@ -26,18 +26,12 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧 acanfora_7200@hotmail.com
 
-<div align="left">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
-    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50" heigth="50"/>
+    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50" heigth="50" align="left"/>
   </a>
-  </div>
   <a href="https://youtube.com/@giuseppeacanfora001">
-    <div align="center">
-    <img src="https://media.giphy.com/media/dyLmcrc0wk4dUCxp0K/giphy.gif" alt="Youtube" width="50" heigth="50"/>
-    </div>
+    <img src="https://media.giphy.com/media/dyLmcrc0wk4dUCxp0K/giphy.gif" alt="Youtube" width="50" heigth="50" align="center"/>
   </a>
-    <div align="right">
   <a href="https://globalgamejam.org/users/leviathan-0">
-    <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="50" heigth="50"/>
+    <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="50" heigth="50" align="right"/>
   </a>
-</div>
