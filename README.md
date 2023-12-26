@@ -5,9 +5,9 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
-    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="10"/>
+    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="30"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://youtube.com/@giuseppeacanfora001">
+    <img src="https://media.giphy.com/media/dyLmcrc0wk4dUCxp0K/giphy.gif" alt="Youtube" width="30"/>
   </a>
 </div>
