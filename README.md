@@ -25,7 +25,7 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧 acanfora_7200@hotmail.com
-
+<div>
   <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50" heigth="50" align="left"/>
   </a>
@@ -35,3 +35,4 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
   <a href="https://globalgamejam.org/users/leviathan-0">
     <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="50" heigth="50" align="right"/>
   </a>
+</div>
