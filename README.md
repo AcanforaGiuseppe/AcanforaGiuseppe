@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
 </div>
 
+<br>
 I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
 ## Who am I
