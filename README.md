@@ -38,5 +38,5 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="acanfora_7200@hotmail.com">
-    <img src="https://i.gifer.com/Nt1i.gif" alt="Email" width="40" heigth="50"/>
+    <img src="https://www.freeiconspng.com/img/121" alt="Email" width="40" heigth="50"/>
   </a>
