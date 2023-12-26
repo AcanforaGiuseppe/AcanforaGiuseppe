@@ -37,5 +37,6 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
     <a href="https://globalgamejam.org/users/leviathan-0">
     <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="40" heigth="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧acanfora_7200@hotmail.com 
 </div>
