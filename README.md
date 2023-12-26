@@ -5,7 +5,7 @@
 </div>
 
 
-I'm Acanfora Giuseppe, 23y from Italy ![ItalyFlagGIF](https://github.com/AcanforaGiuseppe/AcanforaGiuseppe/assets/101001028/4543b506-2ed1-4235-b6ce-08d31169718b)
+I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
 
 
