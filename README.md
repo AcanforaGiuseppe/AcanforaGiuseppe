@@ -35,7 +35,7 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.graph.office.net/prod/media/power-platform/automate-your-business-processes-with-power-automate.png?v={1/string}" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="60" heigth="60"/>&nbsp;
+  <img src="https://cdn.graph.office.net/prod/media/power-platform/automate-your-business-processes-with-power-automate.png?v={1/string}" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="80" heigth="80"/>&nbsp;
 </div>
 
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
