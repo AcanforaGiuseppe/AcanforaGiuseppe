@@ -17,10 +17,7 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 - 🌐 Feel free to ask for my personal curriculum vitae/portfolio, or other infos.
 
 
-## Tecnologie e Strumenti
-
-- 🔧 [Elencare le tecnologie chiave che usi, ad esempio: JavaScript, React, Node.js, Python, ecc.]
-- 🛠️ [Altro software o strumenti che utilizzi, come editor di testo, ambienti di sviluppo, ecc.]
+## Tools and Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -37,9 +34,8 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://pics.computerbase.de/9/7/5/9/0-7a8d9214616bbc84/logo-96.bd50c30f.png" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="40" heigth="40"/>&nbsp;
-  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="40" heigth="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="40" heigth="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="Microsoft Powershell" alt="Microsoft Powershell" width="40" heigth="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Office 365" alt="Office 365" width="40" heigth="40"/>&nbsp;
 </div>
 
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
