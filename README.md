@@ -5,7 +5,7 @@
 </div>
 
 <br>
-I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
+I'm Acanfora Giuseppe, 23y from Italy <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" title="Italy" alt="Italy" width="40" height="40"/>&nbsp;
 
 ## Who am I
 
