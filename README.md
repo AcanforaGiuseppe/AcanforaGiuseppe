@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100" heigth="40"/>
+  <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100" heigth="20"/>
   Welcome in my GitHub profile! 👋
-  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100" heigth="40"/>
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100" heigth="20"/>
 </div>
 
 <br>
