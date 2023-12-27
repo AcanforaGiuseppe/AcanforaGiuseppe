@@ -3,7 +3,6 @@
   Yo!👋 I'm Acanfora Giuseppe, 23y from Italy <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" title="Italy" alt="Italy" width="30" height="20"/>
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100" heigth="20"/>
 </div>
-<br>
 
 ## Who am I
 
