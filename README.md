@@ -24,7 +24,7 @@ I'm Acanfora Giuseppe, 23y from Italy 🇮🇹
 
 
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <table>
+ <table width="100">
         <tbody>
             <tr>
                 <td>📧 acanfora_7200@hotmail.com</td>
