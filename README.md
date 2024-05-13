@@ -9,7 +9,7 @@
 - 🚀 Passionate about technologies, innovation, and development.
 - 🎓 Graduated in computer science.
 - 🎓 Specialization on game coding in AIV (Accademia Italiana Videogiochi), Italy (RM).
-- 💼 Actually working on Web field in Perfexia, Italy (AQ).
+- 💼 Actually working on Web field in //.
 - 😁 Always looking for new projects to develop and new coding challenges.
 - 🌐 Feel free to ask for my personal curriculum vitae/portfolio, or other infos.
 
