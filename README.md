@@ -11,7 +11,7 @@
 - 🎓 Specialization on game coding in AIV (Accademia Italiana Videogiochi), Italy (RM).
 - 💼 Actually working for personal projects.
 - 😁 Always looking for new projects to develop and new coding challenges.
-- 🌐 Feel free to ask for any information you need to know about me!
+- 🌐 Feel free to ask for any information you need to know about me and my projects!
 
 
 ## Tools and Technologies
