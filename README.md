@@ -22,19 +22,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-  <img src="https://i0.wp.com/jerpt.com/wp-content/uploads/2024/10/Microsoft-Copilot-Logo-500x281-2.png?resize=500%2C281&ssl=1" title="Microsoft Copilot Studio" alt="Microsoft Copilot Studio" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" title="Azure DevOps" alt="Azure DevOps" width="40" heigth="40"/>&nbsp;
+    <img src="https://i0.wp.com/jerpt.com/wp-content/uploads/2024/10/Microsoft-Copilot-Logo-500x281-2.png?resize=500%2C281&ssl=1" title="Microsoft Copilot Studio" alt="Microsoft Copilot Studio" width="80" height="40"/>&nbsp;
+    <img src="https://pics.computerbase.de/9/7/5/9/0-7a8d9214616bbc84/logo-96.bd50c30f.png" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="40" heigth="40"/>&nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="Microsoft Powershell" alt="Microsoft Powershell" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" title="Azure DevOps" alt="Azure DevOps" width="40" heigth="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Office 365" alt="Office 365" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://pics.computerbase.de/9/7/5/9/0-7a8d9214616bbc84/logo-96.bd50c30f.png" title="Microsoft Power Automate" alt="Microsoft Power Automate" width="40" heigth="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="Microsoft Powershell" alt="Microsoft Powershell" width="40" heigth="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Office 365" alt="Office 365" width="40" heigth="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
+  
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <table>
         <tbody>
