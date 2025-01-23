@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" title="Outsystems" alt="Outsystems" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" title="Azure DevOps" alt="Azure DevOps" width="40" heigth="40"/>&nbsp;
     <img src="https://i0.wp.com/jerpt.com/wp-content/uploads/2024/10/Microsoft-Copilot-Logo-500x281-2.png?resize=500%2C281&ssl=1" title="Microsoft Copilot Studio" alt="Microsoft Copilot Studio" width="70" height="40"/>&nbsp;
