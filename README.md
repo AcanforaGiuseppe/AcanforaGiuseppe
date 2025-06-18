@@ -30,7 +30,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="Microsoft Powershell" alt="Microsoft Powershell" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg](https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg#L1" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg#L1" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trello/trello-original.svg#L1" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Office 365" alt="Office 365" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
