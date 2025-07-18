@@ -9,7 +9,7 @@
 - 🚀 Passionate about technologies, innovation, and development.
 - 🎓 Graduated in computer science.
 - 🎓 Specialization on game coding in AIV (Accademia Italiana Videogiochi), Italy (RM).
-- 💼 Actually working in ITCONSULTING in Naples (IT) as Web Developer.
+- 💼 Actually working for private projects.
 - 😁 Always looking for new projects to develop and new coding challenges.
 - 🌐 Feel free to ask for any information you need to know about me and my projects!
 
