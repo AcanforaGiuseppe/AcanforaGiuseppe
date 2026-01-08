@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100" heigth="20"/>
-  Yo!👋 I'm Acanfora Giuseppe, 24y from Italy <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" title="Italy" alt="Italy" width="30" height="20"/>
+  Yo!👋 I'm Acanfora Giuseppe, 25y from Italy <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" title="Italy" alt="Italy" width="30" height="20"/>
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100" heigth="20"/>
 </div>
 
@@ -9,7 +9,7 @@
 - 🚀 Passionate about technologies, innovation, and development.
 - 🎓 Graduated in computer science.
 - 🎓 Specialization on game coding in AIV (Accademia Italiana Videogiochi), Italy (RM).
-- 💼 Actually working for private projects.
+- 💼 Actually working for Crionet in Pozzuoli (NA) as Software – Web Developer.
 - 😁 Always looking for new projects to develop and new coding challenges.
 - 🌐 Feel free to ask for any information you need to know about me and my projects!
 
@@ -36,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
   
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
