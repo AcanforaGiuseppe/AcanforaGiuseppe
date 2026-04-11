@@ -56,7 +56,7 @@
                 </td>
                 <td>
                     <a href="https://globalgamejam.org/users/leviathan-0">
-                      <img src="https://s3-us-west-1.amazonaws.com/ggj/site/site-images/GGJ00-Badge-Template-900x900.png" alt="Global Game Jam" width="50" heigth="50"/>
+                      <img src="https://globalgamejam.org/themes/custom/ggj_v4/logo.svg" alt="Global Game Jam" width="50" heigth="50"/>
                     </a>
                 </td>
             </tr>
