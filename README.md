@@ -15,7 +15,7 @@
 
 ## Tools and Technologies
 
-Languages: C#, C, C++.
+Languages: C#, C, C++. <br>
 Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems.
 Databases: SQL on SSMS, PosgreSQL on pgAdmin.
 Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS.
@@ -32,7 +32,7 @@ Other: Microsoft Office, Technical document writing and analysis.
                 <td>📧 acanfora_7200@hotmail.com</td>
                 <td>
                     <a href="https://giuseppeacanforawebsite.onrender.com">
-                    <img src="https://api.iconify.design/mdi:web.svg" title="Personal Website" alt="Personal Website" width="50" height="50"/>
+                    <img src="https://api.iconify.design/mdi:web.svg" title="Website" alt="Website" width="50" height="50"/>
                     </a>
                 </td>
                 <td>
