@@ -13,71 +13,28 @@
 - 😁 Always looking for new projects to develop and new coding challenges.
 - 🌐 Feel free to ask for any information you need to know about me and my projects!
 
-
 ## Tools and Technologies
 
-<div>
-
-  <h3>💻 Languages</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  </div>
-
-  <h3>🌐 Web</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  </div>
-
-  <h3>🎮 Game Development</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>
-  </div>
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
-  </div>
-
-  <h3>⚙️ Microsoft Ecosystem</h3>
-  <div>
-    <img src="https://i0.wp.com/jerpt.com/wp-content/uploads/2024/10/Microsoft-Copilot-Logo-500x281-2.png?resize=500%2C281&ssl=1" title="Microsoft Copilot Studio" alt="Microsoft Copilot Studio" width="70" height="40"/>
-    <img src="https://pics.computerbase.de/9/7/5/9/0-7a8d9214616bbc84/logo-96.bd50c30f.png" title="Power Automate" alt="Power Automate" width="40" height="40"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-powershell-3521649-2945093.png?f=webp&w=256" title="PowerShell" alt="PowerShell" width="40" height="40"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-office-722717.png?f=webp&w=256" title="Office 365" alt="Office 365" width="40" height="40"/>
-  </div>
-
-  <h3>🧰 Tools & Platforms</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>
-  </div>
-
-  <h3>🗄️ Databases</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  </div>
-
-  <h3>🧩 Low-Code</h3>
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" title="OutSystems" alt="OutSystems" width="40" height="40"/>
-  </div>
-
-</div>
+Languages: C#, C, C++.
+Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems.
+Databases: SQL on SSMS, PosgreSQL on pgAdmin.
+Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS.
+Web Development: HTML, CSS, JavaScript.
+Version Control and Task Handling: Git (GitHub, Visual Studio, Azure DevOps), Jira, Trello.
+Scripting Tools: Windows PowerShell.
+AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot.
+Other: Microsoft Office, Technical document writing and analysis.
   
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <table>
         <tbody>
             <tr>
                 <td>📧 acanfora_7200@hotmail.com</td>
+                <td>
+                    <a href="https://giuseppeacanforawebsite.onrender.com">
+                    <img src="https://api.iconify.design/mdi:web.svg" title="Personal Website" alt="Personal Website" width="50" height="50"/>
+                    </a>
+                </td>
                 <td>
                     <a href="https://www.linkedin.com/in/giuseppe-acanfora-dev/">
                       <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" width="50" heigth="50"/>
