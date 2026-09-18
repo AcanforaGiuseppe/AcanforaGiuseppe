@@ -16,13 +16,13 @@
 ## Tools and Technologies
 
 Languages: C#, C, C++. <br>
-Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems.
-Databases: SQL on SSMS, PosgreSQL on pgAdmin.
-Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS.
-Web Development: HTML, CSS, JavaScript.
-Version Control and Task Handling: Git (GitHub, Visual Studio, Azure DevOps), Jira, Trello.
-Scripting Tools: Windows PowerShell.
-AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot.
+Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems. <br>
+Databases: SQL on SSMS, PosgreSQL on pgAdmin. <br>
+Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS. <br>
+Web Development: HTML, CSS, JavaScript. <br>
+Version Control and Task Handling: Git (GitHub, Visual Studio, Azure DevOps), Jira, Trello. <br>
+Scripting Tools: Windows PowerShell. <br>
+AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot. <br>
 Other: Microsoft Office, Technical document writing and analysis.
   
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@ Other: Microsoft Office, Technical document writing and analysis.
                 <td>📧 acanfora_7200@hotmail.com</td>
                 <td>
                     <a href="https://giuseppeacanforawebsite.onrender.com">
-                    <img src="https://api.iconify.design/mdi:web.svg" title="Website" alt="Website" width="50" height="50"/>
+                    <img src="https://api.iconify.design/mdi:web.svg?color=%23007BFF" title="Website" alt="Website" width="50" height="50"/>
                     </a>
                 </td>
                 <td>
