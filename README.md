@@ -17,7 +17,7 @@
 
 Languages: C#, C, C++. <br>
 Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems, n8n. <br>
-Databases: SQL on SSMS, PosgreSQL on pgAdmin. <br>
+Databases: SQL on SSMS, PostgreSQL on pgAdmin. <br>
 Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS. <br>
 Web Development: HTML, CSS, JavaScript. <br>
 Version Control and Task Handling: Git (GitHub, Visual Studio, Azure DevOps), Jira, Trello. <br>
