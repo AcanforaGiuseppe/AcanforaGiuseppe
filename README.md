@@ -1,3 +1,5 @@
+<img width="3168" height="792" alt="linkedin_banner" src="https://github.com/user-attachments/assets/fb8ed1da-9841-485d-8b29-077c14374330" />
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100" heigth="20"/>
   Yo!👋 I'm Acanfora Giuseppe, 25y from Italy <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" title="Italy" alt="Italy" width="30" height="20"/>
