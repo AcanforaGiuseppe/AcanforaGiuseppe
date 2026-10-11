@@ -1,4 +1,4 @@
-<img width="3168" height="792" alt="linkedin_banner" src="https://github.com/user-attachments/assets/fb8ed1da-9841-485d-8b29-077c14374330" />
+<img width="3168" height="792" alt="profile_banner" src="https://github.com/user-attachments/assets/70ce677a-12bd-4c76-8e31-9366d55e3e44" />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif" width="100" heigth="20"/>
