@@ -11,15 +11,20 @@
 
 ## Tools and Technologies
 
-Languages: C#, C, C++. <br>
-Frameworks and Engines: Entity Framework, LINQ, Selenium, .NET, Unity 3D, Unreal Engine, OutSystems, n8n. <br>
-Databases: SQL on SSMS, PostgreSQL on pgAdmin. <br>
-Cloud Services and Automation, Infrastructure as code: Azure Logic App, Azure Function App, Azure DevOps, Microsoft Power Automate, Microsoft Copilot Studio, Terraform, AWS. <br>
-Web Development: HTML, CSS, JavaScript. <br>
-Version Control and Task Handling: Git (GitHub, Visual Studio, Azure DevOps), Jira, Trello. <br>
-Scripting Tools: Windows PowerShell. <br>
-AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot. <br>
-Other: Microsoft Office, Technical document writing and analysis.
+Languages: C#, C, C++.
+Frameworks and Libraries: .NET, Entity Framework, LINQ.
+Game Development and 3D Graphics: Unity 3D, Unreal Engine, Blender.
+Testing and Web Automation: Selenium.
+Low-code and Process Automation: Microsoft Power Automate, Microsoft Copilot Studio, OutSystems, n8n.
+Cloud: Azure (Function App, Logic App), AWS.
+DevOps and Infrastructure as Code: Azure DevOps, Terraform.
+Databases: SQL Server (SSMS), PostgreSQL (pgAdmin).
+Web Development: HTML, CSS, JavaScript.
+Version Control and Project Management: Git (GitHub, Azure DevOps, Visual Studio), Jira, Trello.
+Scripting: Windows PowerShell.
+AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot.
+Productivity: Microsoft Office.
+Documentation and Analysis: technical documentation writing, [requirements / functional] analysis.
   
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <table>
