@@ -11,20 +11,20 @@
 
 ## Tools and Technologies
 
-Languages: C#, C, C++.
-Frameworks and Libraries: .NET, Entity Framework, LINQ.
-Game Development and 3D Graphics: Unity 3D, Unreal Engine, Blender.
-Testing and Web Automation: Selenium.
-Low-code and Process Automation: Microsoft Power Automate, Microsoft Copilot Studio, OutSystems, n8n.
-Cloud: Azure (Function App, Logic App), AWS.
-DevOps and Infrastructure as Code: Azure DevOps, Terraform.
-Databases: SQL Server (SSMS), PostgreSQL (pgAdmin).
-Web Development: HTML, CSS, JavaScript.
-Version Control and Project Management: Git (GitHub, Azure DevOps, Visual Studio), Jira, Trello.
-Scripting: Windows PowerShell.
-AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot.
-Productivity: Microsoft Office.
-Documentation and Analysis: technical documentation writing, [requirements / functional] analysis.
+Languages: C#, C, C++.<br>
+Frameworks and Libraries: .NET, Entity Framework, LINQ.<br>
+Game Development and 3D Graphics: Unity 3D, Unreal Engine, Blender.<br>
+Testing and Web Automation: Selenium.<br>
+Low-code and Process Automation: Microsoft Power Automate, Microsoft Copilot Studio, OutSystems, n8n.<br>
+Cloud: Azure (Function App, Logic App), AWS.<br>
+DevOps and Infrastructure as Code: Azure DevOps, Terraform.<br>
+Databases: SQL Server (SSMS), PostgreSQL (pgAdmin).<br>
+Web Development: HTML, CSS, JavaScript.<br>
+Version Control and Project Management: Git (GitHub, Azure DevOps, Visual Studio), Jira, Trello.<br>
+Scripting: Windows PowerShell.<br>
+AI Tools: ChatGPT, Gemini, Claude, Cursor, Microsoft Copilot.<br>
+Productivity: Microsoft Office.<br>
+Documentation and Analysis: technical documentation writing, [requirements / functional] analysis.<br>
   
 ## Keep in touch! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <table>
